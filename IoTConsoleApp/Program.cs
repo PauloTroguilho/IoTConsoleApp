@@ -10,6 +10,7 @@ namespace IoTConsoleApp
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
